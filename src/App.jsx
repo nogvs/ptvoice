@@ -6,7 +6,7 @@ import Text from "./components/Text";
 import Video from "./components/Video";
 import Image from "./components/Image";
 import Audio from "./components/Audio";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
